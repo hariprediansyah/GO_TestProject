@@ -23,3 +23,4 @@ func calc(a int, b int, tipe int) int {
 		return a / b
 	}
 }
+ 
